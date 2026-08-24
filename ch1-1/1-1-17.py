@@ -1,0 +1,11 @@
+a = int(input())
+b = int(input())
+c = int(input())
+d = int(input())
+e = int(input())
+
+print(f'a:{"#" * a}')
+print(f'b:{"#" * b}')
+print(f'c:{"#" * c}')
+print(f'd:{"#" * d}')
+print(f'e:{"#" * e}')
